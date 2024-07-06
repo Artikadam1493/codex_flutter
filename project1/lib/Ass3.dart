@@ -7,7 +7,12 @@ class Ass3 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(),
+      appBar: AppBar(
+
+        // ignore: prefer_const_constructors
+        title: Text ("flutter"),
+      ),
+      // ignore: prefer_const_constructors
       body:Text ("Demo")
     );
   } 
