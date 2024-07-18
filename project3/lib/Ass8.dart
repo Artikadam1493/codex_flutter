@@ -24,24 +24,24 @@ class Ass8 extends StatelessWidget {
         crossAxisAlignment:CrossAxisAlignment.center,
         children: [
           Container(
-            height:500,
-            width: 500,
+            height:300,
+            width: 300,
             color: Colors.red,
             child: Row(
               mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
               Container(
-                height: 400,
-                width: 400,
+                height: 250,
+                width: 250,
                 color: Color.fromARGB(255, 127, 219, 90),
                   child: Row(
               mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
               Container(
-                height: 300,
-                width: 300,
+                height: 200,
+                width: 200,
                 color: Color.fromRGBO(172, 90, 219, 1),
                    child: Container(
         height: 400,
